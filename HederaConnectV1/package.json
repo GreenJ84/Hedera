@@ -1,0 +1,24 @@
+{
+  "name": "hederaconnectv1",
+  "version": "1.0.0",
+  "description": "A simple React project for my first connection to the Hedera network via utilization of the Hedera SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenJ84/HederaConnectV1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenJ84/HederaConnectV1/issues"
+  },
+  "homepage": "https://github.com/GreenJ84/HederaConnectV1#readme",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.18.4",
+    "dotenv": "^16.0.3",
+    "jquery": "^3.6.1"
+  }
+}
